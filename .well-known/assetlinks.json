@@ -1,1 +1,10 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.angonrasa.absensiswa",
+    "sha256_cert_fingerprints": [
+      "1B:CC:2D:5D:53:73:51:DC:CE:3B:4F:7E:70:DE:65:C6:74:0D:8D:43:72:74:F7:0D:87:7A:F1:1A:39:2B:91:6B"
+    ]
+  }
+}]
